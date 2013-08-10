@@ -7,7 +7,7 @@
     <link href="app/css/app.css" rel="stylesheet" />
 </head>
 <body ng-app='myApp'>
-
+    <h1> Hello Angular + Laravel 4 </h1>
 <div class="container" ng-view></div>
 
 <script src="app/lib/angular/angular.min.js"></script>
